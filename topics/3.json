@@ -1,9 +1,4 @@
-{
-    "title": "UML Class",
-    "items": [
-
-<body>
-
+<span class="md-subhead">
 <center><h2>Слученкова Мария, ИДБ-16-07</h2></center>
 <h2>Лабораторная работа №1</h2>
 
@@ -75,7 +70,5 @@
 <p>
 <a href="https://toaksgogreen.org/img/other/monster-penguin-was-as-tal..">Диаграмма USE Case</a>
 </p>
-
-</body>
-    ]
-}
+        
+</span>
