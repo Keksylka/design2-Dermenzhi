@@ -1,1 +1,1 @@
-# https://keksylka.github.io/design2-Dermenzhi
+# keksylka.github.io/design2-Dermenzhi
