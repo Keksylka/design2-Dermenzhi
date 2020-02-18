@@ -9,6 +9,9 @@ angular.
                 when('/about', {
                     template: '<about></about>'
                 }).
+                when('/plan', {
+                    template: '<plan></plan>'
+                }).
                 when('/topics/:topicId', {
                     template: '<topic-detail></topic-detail>'
                 }).
