@@ -1,1 +1,11 @@
-
+angular.
+    module('designApp', []).
+    controller('HobbyCtrl', function ($scope){
+    $scope.persons = [
+      {"name": "Тодорис", "hobby": "Спортзал"},
+      {"name": "Джордж", "hobby": "Рыбалка"},
+      {"name": "Джон", "hobby": "Баскетбол"},
+      {"name": "Ник", "hobby": "Футбол"},
+      {"name": "Пол", "hobby": "Бильярд"}
+    ];
+});
