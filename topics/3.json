@@ -88,12 +88,15 @@
                 }]
             ]
         },
-        
-        
         {
-            "type": "image",
-            "data": "img/actors_and_goals.png"
-        }
+            "type": "text",
+            "data": [
+                {
+                    "text": "6. Постусловия",
+                    "class": "md-title"
+                }
+            ]
+        },
         
         
     ]
