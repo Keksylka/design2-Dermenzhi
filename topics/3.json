@@ -58,6 +58,10 @@
                 {
                     "text": "4. Участники (actors) и цели (goals)",
                     "class": "md-title"
+                },
+                {
+                    "type": "image",
+                    "data": "img/actors_and_goals.png"
                 }
             ]
         },
