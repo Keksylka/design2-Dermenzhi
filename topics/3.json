@@ -66,6 +66,15 @@
             ]
         },
         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "5. Предусловия",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
             "type": "list",
             "data": [
                 [{
