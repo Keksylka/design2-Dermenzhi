@@ -124,6 +124,10 @@
             ]
         },
         {
+            "type": "image",
+            "data": "img/main-flow.png"
+        },
+        {
             "type": "text",
             "data": [
                 {
