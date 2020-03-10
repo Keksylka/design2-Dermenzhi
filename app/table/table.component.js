@@ -1,21 +1,10 @@
-<html ng-app="tableApp">
- <head>
-  <meta charset="utf-8">
-  <title>Пример таблицы в Angular.js</title>
-  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
-  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular-route.min.js"></script>
-  <script src="script.js"></script>
- </head>
- <body ng-controller="HobbyCtrl">
-  <table>
-   <tr>
-    <th>Имя</th>
-    <th>Хобби</th>
-   </tr>
-   <tr ng-repeat="person in persons">
-    <td>{{person.name}}</td>
-    <td>{{person.hobby}}</td>
-   </tr>
-  </table>
- </body>
-</html>
+angular.
+    module('designApp').
+    component('table', {
+        bindings: {
+            data: '=',
+          },
+        templateUrl: 'app/table/table.template.html',
+        controller: function TableController() {            
+        }
+});
