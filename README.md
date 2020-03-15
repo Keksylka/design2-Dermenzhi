@@ -1,6 +1,7 @@
 # https://keksylka.github.io/design2-Dermenzhi
 
 <!--
+
 #  Участники (actors) и цели (goals)
 
 | Участник | Категория | Цель (goal) |
