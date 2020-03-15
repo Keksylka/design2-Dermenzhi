@@ -131,12 +131,14 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка сайта"
+                    "text": "8. Исключения",
+                    "class": "md-title"
                 }
             ]
         },
         {
-            "type": "table"
+            "type": "image",
+            "data": "img/exceptions.png"
         }
 
     ]
