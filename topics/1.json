@@ -190,7 +190,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма USE Case"
+                    "text": "Диаграмма USE Case",
+                    "class": "md-title"
                 }
             ]
         },
