@@ -102,6 +102,43 @@
                     "class": "md-title"
                 }
             ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "Махмудов Бобурбек - ПП (Программист)"
+                }],
+                [{
+                    "text": "Бада О. Тосин - СП (Аналитик)"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание проекта",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разработать веб интерфейс для выгрузки файлов JSON"
+                }
+            ]
+        }, 
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Реализация проекта",
+                    "link": "https://github.com/stankin/oop-model/tree/master/JSON2M5"
+                }
+            ]
         }
     ]
 }
