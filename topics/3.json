@@ -129,7 +129,8 @@
             "data": [
                 {
                     "text": "Реализация проекта",
-                    "link": "https://github.com/stankin/oop-model/tree/master/JSON2M5"
+                    "link": "https://github.com/stankin/oop-model/tree/master/JSON2M5",
+                    "class": "md-title"
                 }
             ]
         }
